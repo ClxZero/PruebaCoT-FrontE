@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'pruebaCoFirstAngularIncursionFTW';
+  title = 'Vity Analytics';
+  saludo:string = "Elija el rango de tiempo de los datos que necesita analizar";
 }
